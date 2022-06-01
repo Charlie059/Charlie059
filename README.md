@@ -5,5 +5,5 @@
 
 - 🔭 I’m currently finding a job
 - 📫 How to reach me: xg73@duke.edu
-- 🏆 Have a look at my personal website: catting.co.uk
+- 🏆 Have a look at my personal website: (Catting.co.uk)
 - 🥳 Fun fact: Astronomical photography and SpaceX
