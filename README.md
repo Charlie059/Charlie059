@@ -6,3 +6,4 @@
 - 📫 How to reach me: xg73@duke.edu
 - 🏆 Have a look at my personal website: [website](https://Catting.co.uk)
 - 🥳 Fun fact: Astronomical photography and SpaceX
+- I wrote the solution for [Leetcode Chinese website]（https://leetcode.cn/u/charlie-6x/）
